@@ -11,6 +11,7 @@
 		1A33B29B2BCEA46500A11EC6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A33B29A2BCEA46500A11EC6 /* ContentView.swift */; };
 		1A33B29D2BCEA46600A11EC6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A33B29C2BCEA46600A11EC6 /* Assets.xcassets */; };
 		1A33B2A02BCEA46600A11EC6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A33B29F2BCEA46600A11EC6 /* Preview Assets.xcassets */; };
+		1A33B2A72BCEA9F000A11EC6 /* TrafficLightCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A33B2A62BCEA9F000A11EC6 /* TrafficLightCircle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		1A33B29A2BCEA46500A11EC6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1A33B29C2BCEA46600A11EC6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1A33B29F2BCEA46600A11EC6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1A33B2A62BCEA9F000A11EC6 /* TrafficLightCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrafficLightCircle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		1A33B2972BCEA46500A11EC6 /* TrafficLightSwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				1A33B2A62BCEA9F000A11EC6 /* TrafficLightCircle.swift */,
 				1A33B2982BCEA46500A11EC6 /* TrafficLightSwiftUIApp.swift */,
 				1A33B29A2BCEA46500A11EC6 /* ContentView.swift */,
 				1A33B29C2BCEA46600A11EC6 /* Assets.xcassets */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1A33B2A72BCEA9F000A11EC6 /* TrafficLightCircle.swift in Sources */,
 				1A33B29B2BCEA46500A11EC6 /* ContentView.swift in Sources */,
 				1A33B2992BCEA46500A11EC6 /* TrafficLightSwiftUIApp.swift in Sources */,
 			);
